@@ -1,0 +1,20 @@
+body {
+    background-color: darkgrey;
+    padding: 50px;
+}
+h1{
+    color: darkred;
+    padding: 50px;
+}
+p{
+    background-color: forestgreen;
+    padding: 30px;
+}
+a{
+    border-bottom: green;
+    margin: 25px;
+    padding: 30px;
+}
+footer{
+    padding: 80px;
+}
